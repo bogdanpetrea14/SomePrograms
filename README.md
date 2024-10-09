@@ -13,3 +13,7 @@ The program reads from the keyboard a "chessboard," with each position containin
 ## Another Queries
 
 The program solves a sudoku with a given number of rows and columns, N * N. It performs various operations (6 operations to be exact) to determine the progress of the game and whether it has been completed or not.
+
+## Functions Pointers
+
+A program that aims to practice how to use functions pointers in different programs
